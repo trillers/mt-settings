@@ -1,0 +1,8 @@
+{
+  "name": "mt-settings",
+  "description": "a sttings for mt",
+  "author": "node-rookie",
+  "version": "0.0.1",
+  "dependencies": {
+  }
+}
