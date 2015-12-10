@@ -3,11 +3,11 @@ var settings = module.exports = {
         name: 'local',
         mode: 'production',
         host: '127.0.0.1',
-        port: 3020,
+        port: 3030,
         bindIp: "0.0.0.0",
 
         NODE_ENV: 'production',
-        PORT: 3020,
+        PORT: 3030,
         BINDIP: "0.0.0.0"
     },
 
