@@ -17,7 +17,7 @@ var settings = module.exports = {
         protocol: 'http',
         host: '127.0.0.1',
         port: 3030,
-        domain: 'http://mt.www.wenode.org',
+        domain: 'mt.www.wenode.org',
         domainPort: 80,
         context: '/'
     },
