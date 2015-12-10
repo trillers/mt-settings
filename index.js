@@ -16,14 +16,14 @@ var settings = module.exports = {
     app: {
         protocol: 'http',
         host: '127.0.0.1',
-        port: 3020,
-        domain: 'http://local.www.wenode.org',
+        port: 3030,
+        domain: 'http://mt.www.wenode.org',
         domainPort: 80,
         context: '/'
     },
 
     api: {
-        url: 'http://local.www.wenode.org/api'
+        url: 'http://mt.www.wenode.org/api'
     },
 
     logging: {
