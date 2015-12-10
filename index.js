@@ -39,11 +39,11 @@ var settings = module.exports = {
     },
 
     mongo: {
-        host: "127.0.0.1",
+        host: "114.215.91.211",
         port: 27017,
         db: "mt",
-        username: '',
-        password: ''
+        username: 'mt',
+        password: 'mt'
     },
 
     session: {
