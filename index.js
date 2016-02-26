@@ -41,9 +41,9 @@ var settings = module.exports = {
     mongo: {
         host: "114.215.91.211",
         port: 27017,
-        db: "mt",
-        username: 'mt',
-        password: 'mt'
+        db: "mt-ci",
+        username: 'mt-ci',
+        password: 'mt-ci'
     },
 
     session: {
