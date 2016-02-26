@@ -17,7 +17,7 @@ var settings = module.exports = {
         protocol: 'http',
         host: '127.0.0.1',
         port: 3020,
-        domain: 'http://local.www.wenode.org',
+        domain: 'local.www.wenode.org',
         domainPort: 80,
         context: '/'
     },
@@ -52,12 +52,12 @@ var settings = module.exports = {
     },
 
     wechat: {
-        appKey: 'wx23f1709f7727051f',
-        appSecret: '977f6080e128d465b673deb79e3d31b8',
+        appKey: 'wxe6127a840e1c8c9f',
+        appSecret: 'd4624c36b6795d1d99dcf0547af5443d',
         token: 'trillers',
         encodingAESKey: '9zYRktc6N1WPyqH6hXq38tJC2CVDaLjHIkxRpihzmx3',
-        siteId: 'gh_afc333104d2a',
-        siteName: '错题本'
+        siteId: 'gh_74570a11f763',
+        siteName: '独自等待测试号'
     },
 
     resources: {
