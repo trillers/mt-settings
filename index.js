@@ -17,13 +17,13 @@ var settings = module.exports = {
         protocol: 'http',
         host: '127.0.0.1',
         port: 3030,
-        domain: 'mt.www.wenode.org',
+        domain: 'mtci.www.wenode.org',
         domainPort: 80,
         context: '/'
     },
 
     api: {
-        url: 'http://mt.www.wenode.org/api'
+        url: 'http://mtci.www.wenode.org/api'
     },
 
     logging: {
@@ -52,12 +52,12 @@ var settings = module.exports = {
     },
 
     wechat: {
-        appKey: 'wx9d66ca536fd64868',
-        appSecret: 'e228994a6908116bcbfaccdf5a0c518d',
-        token: 'aLEgod2TLeLjG3qJ8bcS',
+        appKey: 'wx23f1709f7727051f',
+        appSecret: '977f6080e128d465b673deb79e3d31b8',
+        token: 'trillers',
         encodingAESKey: '9zYRktc6N1WPyqH6hXq38tJC2CVDaLjHIkxRpihzmx3',
-        siteId: 'gh_414a400e8dbc',
-        siteName: '慧学习'
+        siteId: 'gh_afc333104d2a',
+        siteName: '错题本'
     },
 
     resources: {
